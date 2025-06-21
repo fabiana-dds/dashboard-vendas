@@ -2,7 +2,7 @@
 
 Projeto criado do zero com dados fictícios para praticar análise e visualização de dados com Excel.
 
-## 🎯 Objetivo
+## Objetivo
 
 Simular uma análise simples de vendas, mostrando:
 
@@ -10,7 +10,7 @@ Simular uma análise simples de vendas, mostrando:
 - Total de vendas por período
 - Representação visual por gráficos
 
-## 💼 O que foi feito
+## O que foi feito
 
 - Criação de uma planilha com dados de vendas
 - Cálculo de totais automáticos
@@ -18,13 +18,13 @@ Simular uma análise simples de vendas, mostrando:
 - Gráfico de pizza (participação de cada item nas vendas)
 - Layout visual com resumo de métricas
 
-## 🛠️ Ferramentas utilizadas
+##  Ferramentas utilizadas
 
 - Microsoft Excel
 - Formatação condicional
 - Gráficos automáticos
 
-## 📎 Arquivos incluídos
+## Arquivos incluídos
 
 - `dashboard_vendas.xlsx` → Planilha com os dados
 - `dashboard_visual.png` → Versão em PNG para visualização
